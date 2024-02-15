@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.form__wrapper {
+  background-color: #fff;
+  width: 60%;
+  height: 100px;
+  margin: 20px auto;
+  border-radius: 15px;
+  padding: 10px 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form__update {
+  background-color: #fff;
+}
